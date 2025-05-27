@@ -12,14 +12,6 @@ Welcome to my personal portfolio! This website showcases who I am, what I do, an
 
 ---
 
-## 👩‍💻 About Me
-
-Hi there! I'm **Devmini**, an aspiring web developer and creative thinker. I’m passionate about building clean, responsive websites and continuously learning new technologies in the world of web development.
-
-Whether you're a recruiter, collaborator, or just curious — thanks for visiting!
-
----
-
 ## 🚀 Features
 
 - Fully responsive design (mobile & desktop)
